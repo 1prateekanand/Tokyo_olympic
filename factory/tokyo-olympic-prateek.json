@@ -1,0 +1,9 @@
+{
+	"name": "tokyo-olympic-prateek",
+	"location": "southindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "882549ce-1270-4c74-b3a4-e4013e7a52ca",
+		"tenantId": "4ff7ef5c-b942-49bb-b89d-8370fd46049f"
+	}
+}
